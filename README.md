@@ -1,4 +1,3 @@
-# test-repository
-This is a test description.
+# My very first repo
 
-This is a second example
+Life is a galaxy. I will leave it a nice review.
